@@ -31,7 +31,7 @@ function juntaListas(lista1, lista2){
         listaFinal.push(maior[posicaoM])
         posicaoM++
     }
-    
+    //lllll
 
 
     return listaFinal
