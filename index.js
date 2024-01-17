@@ -33,6 +33,7 @@ function juntaListas(lista1, lista2){
     }
     
 
+    console.log("arvore")
 
     return listaFinal
 }
