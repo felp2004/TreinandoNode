@@ -34,7 +34,6 @@ function juntaListas(lista1, lista2){
     
 
     console.log("arvore")
-    console.log("Mais uma mudança")
 
     return listaFinal
 }
