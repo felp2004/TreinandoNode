@@ -45,5 +45,7 @@ const edGalho = [
     },
 ]
 
+console.log("a")
+
 
 module.exports = edGalho
